@@ -15,7 +15,7 @@ How to:
   Drop the dbghelp.dll from here into the Folder.
   
   
-  After your First Launch of the Game, the Program will create a "pAMS2Spotter.txt" in the same Folder, this can be edited to adjust the Volume of the Spotter. (0 - 100)
+  After your First Launch of the Game, the Program will create a "pAMS2Spotter.txt" in the same Folder, this can be edited to adjust the Volume of the Spotter. (0 - 100)(u have to restart the game for the changes to take effect!)
 
 Known Issues:
 
