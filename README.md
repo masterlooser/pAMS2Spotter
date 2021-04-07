@@ -18,3 +18,7 @@ Known Issues:
   Calls out random stuff after leaving Pitlane.
   
   Talks while Game is Paused and Cars next to you.
+
+
+
+Disclaimer: I am using CrewChiefs Female Spotter Voice in this as this was mainly intended as Private only use at first. If there is a problem with me using her, feel free to PM me.
