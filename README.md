@@ -1,9 +1,5 @@
 # pAMS2Spotter
 
-
-CURRENTLY DOES NOT WORK ACROSS UPDATES!!! IF THE GAME UPDATES YOU WILL MOST LIKELY CRASH, KEEP THE ORIGINAL dbghelp.dll !!! also doesnt work with beta, since i dont have beta.
-
-
 How to:
 
   Download dbghelp.dll from here.
