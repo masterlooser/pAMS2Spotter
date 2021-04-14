@@ -19,7 +19,5 @@ How to:
 
 Known Issues:
 
-  Calls out random stuff after leaving Pitlane.
-  
-  Talks while Game is Paused and Cars next to you.
+  None
 
